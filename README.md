@@ -2,6 +2,7 @@
 The first project of the Algorithms and Data Structures course involves loading CSS blocks and correctly executing commands regarding the loaded data.
 
 Instruction for the project:
+
 CSS Processor
 The aim of the task is to write a simple CSS processing engine. The task involves reading CSS sections interleaved with command sections from standard input. CSS sections should be parsed and placed in appropriate structures, while command sections should be parsed and executed, with the results (if any) printed to standard output (after "==").
 
