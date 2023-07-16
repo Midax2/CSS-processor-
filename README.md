@@ -1,5 +1,5 @@
 # CSS-processor-
-The first project of the Algorithms and Data Structures course involves loading CSS blocks and correctly executing commands regarding the loaded data.
+The first project of the Algorithms and Data Structures course is about loading CSS blocks and correctly executing commands regarding the loaded data.
 
 Instruction for the project:
 
